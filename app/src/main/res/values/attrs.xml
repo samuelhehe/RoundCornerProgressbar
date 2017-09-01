@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="ProgressView">
+        <attr name="pro_text_size" format="dimension" />
+        <attr name="pro_text_color" format="color" />
+        <attr name="pro_bg_color" format="color" />
+        <attr name="pro_pro_color" format="color" />
+        <attr name="pro_progress" format="integer" />
+        <attr name="pro_radius" format="dimension" />
+        <attr name="pro_showtxt" format="boolean" />
+        <attr name="pro_levelnums" format="integer" />
+
+    </declare-styleable>
+
+</resources>
